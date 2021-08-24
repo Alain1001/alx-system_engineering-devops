@@ -1,4 +1,4 @@
-0x03. Shell, init files, variables and expansions
+0x03. Shell, init files, variables and expansions project
 
 File 0-alias is a script that creates an alias.
 
